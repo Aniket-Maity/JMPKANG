@@ -4,7 +4,7 @@ There are two kangaroos on an x-axis ready to jump in the positive direction (i.
 
 Input Format
 
-A single line of four space-separated integers denoting the respective values of , , , and .
+A single line of four space-separated integers denoting the respective values of x1, x1, v1, and v2.
 
 Constraints
 
